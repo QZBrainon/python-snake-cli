@@ -6,7 +6,7 @@ This project was created as part of a series of projects aimed at practicing con
 
 ## How to play
 
-If you already have python3 installed on your machine, simply clone the repo and cd into the src directory, then:
+If you already have python3 installed on your machine, simply clone the repo, install dependencies and cd into the src directory, then:
 
 ```python3 main.py```
 
